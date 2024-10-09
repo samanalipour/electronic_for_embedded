@@ -1,0 +1,7 @@
+C:/Users/39351/Desktop/Electronic for Embedded Project/St/Electronics_for_embedded/CMSIS/Include/core_cm3.h:1600:22:__NVIC_ClearPendingIRQ	16	static
+C:/Users/39351/Desktop/Electronic for Embedded Project/St/Electronics_for_embedded/CMSIS/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Peripherals/Src/rcc.c:9:6:rcc_HSE_config	4	static
+../Peripherals/Src/rcc.c:69:6:rcc_SysTick_config	16	static
+../Peripherals/Src/rcc.c:87:6:SysTick_Handler	8	static
+../Peripherals/Src/rcc.c:96:6:rcc_msDelay	24	static
+../Peripherals/Src/rcc.c:101:10:rcc_msGetTicks	4	static

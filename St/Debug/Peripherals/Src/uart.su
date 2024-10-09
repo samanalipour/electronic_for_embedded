@@ -1,0 +1,5 @@
+../Peripherals/Src/uart.c:6:6:uart_UART_GPIO_config	4	static
+../Peripherals/Src/uart.c:45:6:uart_UART1_config	4	static
+../Peripherals/Src/uart.c:84:6:uart_UART1_transmit	32	static
+../Peripherals/Src/uart.c:113:6:uart_UART3_config	4	static
+../Peripherals/Src/uart.c:146:6:uart_UART3_transmit	32	static

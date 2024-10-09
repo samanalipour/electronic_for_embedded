@@ -1,0 +1,3 @@
+../Peripherals/Src/gpio.c:7:6:gpio_LED_config	4	static
+../Peripherals/Src/gpio.c:22:6:gpio_LED_write	16	static
+../Peripherals/Src/gpio.c:34:6:gpio_LED_toggle	4	static

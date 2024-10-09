@@ -1,0 +1,4 @@
+C:/Users/39351/Desktop/Electronic for Embedded Project/St/Electronics_for_embedded/CMSIS/Include/core_cm3.h:1600:22:__NVIC_ClearPendingIRQ	16	static
+../Core/Src/main.c:20:5:main	48	static
+../Core/Src/main.c:110:6:DMA1_Channel1_IRQHandler	8	static
+../Core/Src/main.c:122:6:ADC1_2_IRQHandler	8	static

@@ -1,0 +1,5 @@
+../Peripherals/Src/flash.c:6:6:flash_unlock	4	static
+../Peripherals/Src/flash.c:18:6:flash_lock	4	static
+../Peripherals/Src/flash.c:26:6:flash_erase	16	static
+../Peripherals/Src/flash.c:45:6:flash_write16	32	static
+../Peripherals/Src/flash.c:67:6:flash_read16	32	static
